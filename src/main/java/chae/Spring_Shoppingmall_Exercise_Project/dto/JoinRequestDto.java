@@ -1,4 +1,4 @@
-package chae.shop.shoppingmall.dto;
+package chae.Spring_Shoppingmall_Exercise_Project.dto;
 
 import lombok.Getter;
 

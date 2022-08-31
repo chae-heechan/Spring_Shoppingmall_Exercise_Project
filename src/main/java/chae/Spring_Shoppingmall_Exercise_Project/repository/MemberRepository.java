@@ -1,6 +1,6 @@
-package chae.shop.shoppingmall.repository;
+package chae.Spring_Shoppingmall_Exercise_Project.repository;
 
-import chae.shop.shoppingmall.domain.Member;
+import chae.Spring_Shoppingmall_Exercise_Project.domain.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

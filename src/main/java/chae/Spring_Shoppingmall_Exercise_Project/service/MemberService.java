@@ -1,9 +1,9 @@
-package chae.shop.shoppingmall.service;
+package chae.Spring_Shoppingmall_Exercise_Project.service;
 
-import chae.shop.shoppingmall.domain.Member;
-import chae.shop.shoppingmall.dto.JoinRequestDto;
-import chae.shop.shoppingmall.dto.LogInRequestDto;
-import chae.shop.shoppingmall.repository.MemberRepository;
+import chae.Spring_Shoppingmall_Exercise_Project.domain.Member;
+import chae.Spring_Shoppingmall_Exercise_Project.dto.JoinRequestDto;
+import chae.Spring_Shoppingmall_Exercise_Project.dto.LogInRequestDto;
+import chae.Spring_Shoppingmall_Exercise_Project.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

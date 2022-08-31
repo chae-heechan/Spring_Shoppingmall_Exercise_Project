@@ -1,4 +1,4 @@
-package chae.shop.shoppingmall.domain;
+package chae.Spring_Shoppingmall_Exercise_Project.domain;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
